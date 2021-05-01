@@ -1,0 +1,2 @@
+# PROJECT-3-INTERNSHIP-COVID-19-ANALYSIS-
+In this project I learned how to model solutions and which  models to choose to make predictions and forecasts depending on how data looks. This project is usage of predictive and forecasting models in the industry because of a huge volume of data. First I go through the Data , make some visualization and apply some mathematical method and predict future number of cases
